@@ -1,6 +1,6 @@
 ![Dappify](./assets/dappify-banner.png)
 
-Welcome to **[Dappify](https://github.com)**, a library for seamlessly integrating Web3 functionality into any webpage. Powered by Thirdweb, Dappify provides drop-in widgets like ConnectButton and ClaimButton to connect wallets, claim NFTs, and more—all with minimal setup and maximum flexibility and without having to write code.
+Welcome to **[Dappify](https://dappify.com)**, a library for seamlessly integrating Web3 functionality into any webpage. Powered by Thirdweb, Dappify provides drop-in widgets like ConnectButton and ClaimButton to connect wallets, claim NFTs, and more—all with minimal setup and maximum flexibility and without having to write code.
 
 ## Why Dappify?
 
